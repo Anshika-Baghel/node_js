@@ -1,0 +1,20 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_js"
+  },
+  "author": "Anshika Baghel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.4"
+  }
+}
